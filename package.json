@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "test": "cypress open --e2e --browser chrome"
+  },
+  "dependencies": {
+    "cypress": "^12.9.0",
+    "cypress-real-events": "^1.7.6"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
